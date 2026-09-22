@@ -1,9 +1,12 @@
 <h1 align="center">Hi, I'm Lilian!</h1>
 
 <p align="center">
-  <b>Media Informatics student · Aspiring web developer</b><br/>
-  Hochschule RheinMain, Wiesbaden
-</p>
+  <b>Media Informatics student</b><br/>
+  University of Applied Science RheinMain, Wiesbaden, Germany</p>
+  
+<p align="center">
+  📍Currently at University of Massachusetts Boston, USA </p>
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/DEIN-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -17,7 +20,7 @@
 I'm studying **Media Informatics** at Hochschule RheinMain in Wiesbaden and enjoy building software, from the first idea to a working application.
 
 - 🎓 Studying Media Informatics (B.Sc.) at Hochschule RheinMain
-- 👩‍🏫 Working as a **tutor**, which trains me to explain complex topics clearly
+- 👩‍🏫 Working as a tutor, which trains me to explain complex topics clearly
 - 🛠️ Currently building a **personal app** (see projects below)
 - 🔎 **Looking for:** an **IT internship starting March 2027**
 
